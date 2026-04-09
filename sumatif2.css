@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+	margin:2px;
+    background-color: #f4f4f4;
+}
+
+.container {
+    max-width: 400px;
+    background-color: F4F2F0;
+	padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+	margin:auto;
+}
+label {
+    display: block;
+    margin-top: 10px;
+	font-weight:bold;
+}
+
+.result {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: BAAFA0;
+    border-radius: 8px;
+	font-weight: bold;
+	white-space: pre-line;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    margin-top: 25px;
+    padding: 10px;
+    width: 100%;
+    background-color: CEC5BB;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+
+title{
+	color:grey;
+}
+label{
+	color :black;
+	display:block;
+	margin-top:10px;
+	font-weight:bold;
+}
+.kotak2{
+	margin-top:20px;
+	padding:10px;
+	background-color:yellow;
+	border-radius:8px;
+	font-weight:bold;
+	white-space:pre-line;
+}
